@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotatingTextWrapper", "RotatingTextWrapper\RotatingTextWrapper.csproj", "{20E2E1EB-4959-4ED6-BAB9-BD17C7BA6A9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindRotatingtext", "RotatingTextWrapper\AndroidBindings\BindRotatingtext\BindRotatingtext.csproj", "{D0EA784A-557C-40AE-9D79-4E407FC7257E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{20E2E1EB-4959-4ED6-BAB9-BD17C7BA6A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20E2E1EB-4959-4ED6-BAB9-BD17C7BA6A9F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20E2E1EB-4959-4ED6-BAB9-BD17C7BA6A9F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D0EA784A-557C-40AE-9D79-4E407FC7257E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EA784A-557C-40AE-9D79-4E407FC7257E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EA784A-557C-40AE-9D79-4E407FC7257E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EA784A-557C-40AE-9D79-4E407FC7257E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

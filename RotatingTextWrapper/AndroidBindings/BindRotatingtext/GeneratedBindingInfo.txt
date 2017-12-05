@@ -1,0 +1,16 @@
+Binding for:
+com.sdsmdg.harjot:rotatingtext:1.0.2
+
+Dependencies:
+
+rotatingtext-1.0.2.aar,    Path=C:\Users\johnj_000\.gradle\caches\modules-2\files-2.1\com.sdsmdg.harjot\rotatingtext\1.0.2\db497080edda2c3bd17594b50dadbf33d83c16e4\rotatingtext-1.0.2.aar
+	animated-vector-drawable-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\animated-vector-drawable\25.3.0\animated-vector-drawable-25.3.0.aar
+	appcompat-v7-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\appcompat-v7\25.3.0\appcompat-v7-25.3.0.aar
+	support-annotations-25.3.0.jar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar
+	support-compat-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-compat\25.3.0\support-compat-25.3.0.aar
+	support-core-ui-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-core-ui\25.3.0\support-core-ui-25.3.0.aar
+	support-core-utils-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-core-utils\25.3.0\support-core-utils-25.3.0.aar
+	support-fragment-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-fragment\25.3.0\support-fragment-25.3.0.aar
+	support-media-compat-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-media-compat\25.3.0\support-media-compat-25.3.0.aar
+	support-v4-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\25.3.0\support-v4-25.3.0.aar
+	support-vector-drawable-25.3.0.aar,    Path=D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-vector-drawable\25.3.0\support-vector-drawable-25.3.0.aar
