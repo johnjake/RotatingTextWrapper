@@ -2,7 +2,7 @@
 
 Rotating text is an Android library that can be used to make text switching painless and beautiful, with the use of interpolators, typefaces and more customisations. 
 
-Porting from original Native Java https://github.com/sdsmdg/RotatingText to Xamarin Android.
+Porting from original library https://github.com/sdsmdg/RotatingText to Xamarin Android.
 
 ![Alt text](https://github.com/johnjake/RotatingTextWrapper/blob/master/rorate.gif?raw=true "Rotating TextView")
 
